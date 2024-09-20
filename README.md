@@ -5,6 +5,6 @@ Componente Angular con firebase, aplicacando autenticación con Google y usando 
 Activamos el botón de Habilitar con correo y contraeña:
 ![image](https://github.com/user-attachments/assets/0b3c30ca-cab5-4dd3-af7b-e0352fedb751)
 
-# AHORA EN NUESTRO TS IMPORTAMOS INYECTAMOS EL SERVICIO AUTH
-![image](https://github.com/user-attachments/assets/724a06cb-1549-4d57-b903-7c3a9acd6989)
+# AHORA EN NUESTRO TS IMPORTAMOS INYECTAMOS EL SERVICIO AUTH Y AGREGAMOS EL MÉTODO PARA CREAR USUARIO CON EMAIL Y PASSWORD:
+![image](https://github.com/user-attachments/assets/aae2bf07-e8ca-4902-9cfe-0e992fea71e9)
 
