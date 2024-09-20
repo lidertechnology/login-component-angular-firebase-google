@@ -11,5 +11,10 @@ Activamos el botón de Habilitar con correo y contraeña:
 # SEGUIDAMENTE HACEMOS LAS IMPORTACIONES DE ANGULAR MATERIAL Y ANGULAR FORMS
 ![image](https://github.com/user-attachments/assets/904a4145-0178-4660-ad56-9741249d8549)
 * Aca estamos importando de Material para crear el formulario y de Form Module para usar formukarios reactivos.
+  
+![image](https://github.com/user-attachments/assets/1b9fb06e-596e-4cd0-8e55-87a27f96a0ea)
+* Creamos la logica del formulrio con sus validadores de campos.
+
+
 
 
